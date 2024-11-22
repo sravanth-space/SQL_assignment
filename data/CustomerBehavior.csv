@@ -1,0 +1,1001 @@
+behavior_id,customer_id,cart_abandonment,customer_segment
+1,588,False,New User
+2,936,False,VIP
+3,731,False,VIP
+4,922,False,New User
+5,50,False,New User
+6,996,False,VIP
+7,257,True,New User
+8,346,True,New User
+9,619,True,New User
+10,832,False,New User
+11,948,True,New User
+12,752,True,Regular
+13,824,False,VIP
+14,915,True,Regular
+15,767,True,VIP
+16,586,True,Regular
+17,454,False,New User
+18,313,False,New User
+19,551,False,Regular
+20,51,True,New User
+21,319,True,VIP
+22,444,False,New User
+23,98,True,Regular
+24,308,True,Regular
+25,359,False,New User
+26,311,False,Regular
+27,977,True,Regular
+28,127,False,New User
+29,471,True,New User
+30,503,False,Regular
+31,849,True,Regular
+32,206,False,VIP
+33,201,False,New User
+34,982,True,New User
+35,388,False,New User
+36,996,False,VIP
+37,479,False,VIP
+38,305,False,Regular
+39,358,True,Regular
+40,116,False,Regular
+41,848,True,Regular
+42,395,False,VIP
+43,408,True,New User
+44,604,False,New User
+45,816,False,New User
+46,844,False,Regular
+47,222,True,Regular
+48,143,False,Regular
+49,531,True,VIP
+50,719,True,Regular
+51,892,True,New User
+52,194,True,VIP
+53,874,True,Regular
+54,165,True,VIP
+55,453,True,New User
+56,732,False,New User
+57,526,True,Regular
+58,775,True,New User
+59,721,True,New User
+60,74,False,VIP
+61,603,False,VIP
+62,752,False,Regular
+63,675,True,Regular
+64,27,True,Regular
+65,863,True,Regular
+66,557,True,Regular
+67,544,True,VIP
+68,327,True,Regular
+69,843,False,New User
+70,853,True,VIP
+71,334,True,Regular
+72,895,True,Regular
+73,993,True,New User
+74,458,True,VIP
+75,723,False,VIP
+76,897,True,Regular
+77,633,True,Regular
+78,771,True,VIP
+79,377,False,VIP
+80,290,True,VIP
+81,899,False,VIP
+82,412,True,Regular
+83,191,True,New User
+84,521,False,Regular
+85,738,False,Regular
+86,222,False,VIP
+87,290,False,VIP
+88,662,True,Regular
+89,133,True,VIP
+90,461,False,VIP
+91,606,False,New User
+92,463,True,Regular
+93,360,True,Regular
+94,125,False,Regular
+95,225,False,Regular
+96,827,True,New User
+97,440,False,Regular
+98,69,False,New User
+99,791,True,New User
+100,881,True,VIP
+101,574,False,VIP
+102,553,True,Regular
+103,433,True,Regular
+104,960,True,VIP
+105,354,False,VIP
+106,441,False,VIP
+107,50,True,VIP
+108,809,False,New User
+109,596,False,Regular
+110,423,True,New User
+111,108,True,Regular
+112,369,True,Regular
+113,468,False,Regular
+114,17,True,New User
+115,870,False,VIP
+116,979,False,Regular
+117,475,False,Regular
+118,279,False,Regular
+119,114,True,VIP
+120,55,True,New User
+121,939,True,VIP
+122,586,False,VIP
+123,949,True,Regular
+124,673,False,VIP
+125,237,False,VIP
+126,712,True,VIP
+127,386,False,Regular
+128,90,False,Regular
+129,847,True,New User
+130,267,True,VIP
+131,693,True,New User
+132,659,True,Regular
+133,518,True,New User
+134,402,True,Regular
+135,324,False,Regular
+136,817,True,New User
+137,626,True,Regular
+138,624,False,Regular
+139,453,False,Regular
+140,174,True,VIP
+141,323,True,New User
+142,771,True,VIP
+143,394,True,VIP
+144,430,False,Regular
+145,497,False,New User
+146,280,True,VIP
+147,632,True,Regular
+148,674,True,Regular
+149,897,False,New User
+150,259,False,Regular
+151,255,True,VIP
+152,502,True,Regular
+153,420,False,New User
+154,14,False,Regular
+155,795,False,VIP
+156,828,False,Regular
+157,231,False,Regular
+158,221,False,Regular
+159,274,True,VIP
+160,762,False,Regular
+161,153,True,Regular
+162,475,False,VIP
+163,800,True,VIP
+164,288,False,New User
+165,787,True,Regular
+166,686,True,Regular
+167,504,False,Regular
+168,116,True,New User
+169,637,True,Regular
+170,735,False,VIP
+171,295,False,VIP
+172,748,True,New User
+173,558,False,Regular
+174,278,False,New User
+175,626,False,Regular
+176,287,True,Regular
+177,609,True,Regular
+178,304,True,VIP
+179,336,True,VIP
+180,155,True,Regular
+181,150,False,Regular
+182,929,True,New User
+183,529,False,Regular
+184,246,False,VIP
+185,103,False,New User
+186,978,False,New User
+187,245,True,Regular
+188,158,False,VIP
+189,325,True,VIP
+190,949,True,VIP
+191,567,True,New User
+192,436,True,VIP
+193,852,True,VIP
+194,417,False,Regular
+195,862,False,VIP
+196,212,False,New User
+197,641,False,VIP
+198,492,True,Regular
+199,904,True,Regular
+200,463,False,New User
+201,609,True,VIP
+202,462,True,New User
+203,630,False,Regular
+204,976,True,New User
+205,418,True,Regular
+206,652,False,VIP
+207,933,True,Regular
+208,962,False,New User
+209,799,False,Regular
+210,82,False,Regular
+211,477,True,New User
+212,604,True,VIP
+213,681,False,VIP
+214,694,True,New User
+215,176,False,VIP
+216,94,False,New User
+217,778,False,Regular
+218,896,True,Regular
+219,297,True,New User
+220,823,False,New User
+221,158,True,Regular
+222,164,True,VIP
+223,5,True,Regular
+224,558,True,VIP
+225,219,True,New User
+226,904,True,New User
+227,447,False,VIP
+228,866,False,New User
+229,548,False,Regular
+230,224,True,VIP
+231,221,True,VIP
+232,86,True,New User
+233,427,False,New User
+234,258,False,New User
+235,514,True,Regular
+236,90,False,VIP
+237,244,False,Regular
+238,925,False,VIP
+239,61,True,VIP
+240,815,False,VIP
+241,983,True,New User
+242,536,False,VIP
+243,272,False,Regular
+244,375,False,VIP
+245,769,True,Regular
+246,594,False,VIP
+247,600,True,Regular
+248,763,True,New User
+249,68,False,Regular
+250,623,False,VIP
+251,849,False,New User
+252,874,False,VIP
+253,404,False,New User
+254,377,True,Regular
+255,193,False,Regular
+256,737,True,VIP
+257,566,False,New User
+258,410,True,VIP
+259,189,False,Regular
+260,404,False,Regular
+261,786,False,Regular
+262,910,False,Regular
+263,956,True,VIP
+264,914,False,VIP
+265,973,True,Regular
+266,591,False,VIP
+267,911,False,Regular
+268,201,False,VIP
+269,429,False,New User
+270,323,False,New User
+271,772,True,New User
+272,734,False,VIP
+273,316,True,VIP
+274,556,True,VIP
+275,418,False,VIP
+276,186,True,Regular
+277,956,True,Regular
+278,299,False,VIP
+279,42,True,Regular
+280,891,False,VIP
+281,430,True,New User
+282,152,False,New User
+283,700,False,VIP
+284,797,True,Regular
+285,682,True,Regular
+286,969,False,New User
+287,989,True,Regular
+288,794,False,VIP
+289,810,False,VIP
+290,600,True,New User
+291,951,False,New User
+292,785,False,Regular
+293,277,True,VIP
+294,537,True,Regular
+295,535,True,VIP
+296,251,False,VIP
+297,280,False,New User
+298,594,True,New User
+299,321,False,VIP
+300,39,True,New User
+301,800,False,VIP
+302,176,False,New User
+303,861,True,Regular
+304,525,True,Regular
+305,392,True,Regular
+306,501,False,VIP
+307,613,False,Regular
+308,905,True,VIP
+309,543,False,Regular
+310,959,False,New User
+311,291,False,New User
+312,330,False,New User
+313,22,True,New User
+314,852,True,New User
+315,280,True,VIP
+316,484,True,VIP
+317,864,False,New User
+318,361,True,VIP
+319,636,True,Regular
+320,768,True,Regular
+321,503,False,VIP
+322,831,True,New User
+323,767,True,New User
+324,659,False,VIP
+325,645,True,Regular
+326,84,True,New User
+327,965,True,VIP
+328,805,False,Regular
+329,456,False,New User
+330,760,False,Regular
+331,692,True,New User
+332,803,True,New User
+333,952,True,New User
+334,106,False,VIP
+335,309,False,VIP
+336,551,False,VIP
+337,368,True,VIP
+338,599,False,VIP
+339,327,True,VIP
+340,837,True,New User
+341,524,False,New User
+342,165,True,VIP
+343,451,False,Regular
+344,433,True,Regular
+345,758,True,Regular
+346,890,False,New User
+347,879,False,Regular
+348,54,False,New User
+349,881,True,New User
+350,618,False,Regular
+351,80,True,Regular
+352,682,False,Regular
+353,860,True,New User
+354,25,True,VIP
+355,601,True,New User
+356,102,True,Regular
+357,691,True,VIP
+358,267,False,Regular
+359,353,True,New User
+360,475,False,New User
+361,363,False,New User
+362,649,True,Regular
+363,281,False,New User
+364,283,False,VIP
+365,619,True,New User
+366,564,True,Regular
+367,861,True,Regular
+368,646,False,New User
+369,923,True,VIP
+370,601,True,New User
+371,843,False,VIP
+372,747,True,Regular
+373,840,True,VIP
+374,780,False,New User
+375,18,True,Regular
+376,82,True,Regular
+377,250,False,New User
+378,539,False,VIP
+379,930,True,New User
+380,810,False,Regular
+381,395,True,VIP
+382,376,False,New User
+383,889,True,VIP
+384,487,True,New User
+385,281,True,New User
+386,890,False,Regular
+387,457,False,VIP
+388,656,True,Regular
+389,897,True,New User
+390,787,False,VIP
+391,523,True,Regular
+392,184,True,Regular
+393,360,False,Regular
+394,696,False,New User
+395,256,True,New User
+396,39,False,Regular
+397,196,False,VIP
+398,976,False,VIP
+399,199,False,New User
+400,703,False,VIP
+401,406,True,New User
+402,453,True,New User
+403,891,True,Regular
+404,821,True,Regular
+405,747,True,New User
+406,662,False,VIP
+407,455,True,Regular
+408,703,False,Regular
+409,961,False,VIP
+410,122,False,New User
+411,997,False,Regular
+412,312,True,Regular
+413,933,True,Regular
+414,92,False,Regular
+415,207,False,Regular
+416,286,False,VIP
+417,719,False,New User
+418,837,False,Regular
+419,200,False,New User
+420,954,True,New User
+421,757,False,VIP
+422,548,False,VIP
+423,615,True,Regular
+424,52,True,VIP
+425,146,False,Regular
+426,915,True,VIP
+427,648,True,New User
+428,364,False,Regular
+429,606,True,Regular
+430,288,True,VIP
+431,883,False,Regular
+432,689,False,VIP
+433,129,False,Regular
+434,536,False,New User
+435,537,True,New User
+436,8,False,VIP
+437,312,True,Regular
+438,880,False,New User
+439,213,True,New User
+440,57,True,New User
+441,387,False,VIP
+442,28,True,VIP
+443,536,False,New User
+444,429,False,VIP
+445,561,False,Regular
+446,556,False,Regular
+447,654,True,Regular
+448,631,False,Regular
+449,731,True,VIP
+450,865,False,New User
+451,305,False,New User
+452,825,False,Regular
+453,599,True,VIP
+454,924,False,Regular
+455,10,True,Regular
+456,772,False,VIP
+457,6,True,Regular
+458,241,False,VIP
+459,945,False,Regular
+460,970,False,New User
+461,757,True,VIP
+462,851,True,Regular
+463,617,False,New User
+464,524,False,VIP
+465,470,False,VIP
+466,646,False,New User
+467,301,False,VIP
+468,649,True,VIP
+469,320,False,Regular
+470,480,True,Regular
+471,538,True,Regular
+472,829,True,Regular
+473,533,True,VIP
+474,883,True,New User
+475,382,True,New User
+476,433,True,Regular
+477,45,True,VIP
+478,942,True,New User
+479,146,False,New User
+480,206,True,Regular
+481,18,False,New User
+482,137,False,VIP
+483,769,True,VIP
+484,585,False,VIP
+485,339,True,New User
+486,426,False,New User
+487,895,False,New User
+488,115,True,New User
+489,8,True,New User
+490,341,False,Regular
+491,697,False,New User
+492,914,True,VIP
+493,214,True,New User
+494,869,False,New User
+495,696,False,VIP
+496,70,False,New User
+497,794,True,VIP
+498,126,True,New User
+499,72,False,New User
+500,405,False,VIP
+501,72,False,VIP
+502,136,False,New User
+503,132,False,Regular
+504,126,True,Regular
+505,26,False,New User
+506,78,False,Regular
+507,3,False,VIP
+508,644,True,Regular
+509,18,True,VIP
+510,977,True,VIP
+511,240,False,VIP
+512,414,False,VIP
+513,576,True,New User
+514,638,True,Regular
+515,236,True,VIP
+516,292,True,VIP
+517,420,True,VIP
+518,9,True,Regular
+519,276,True,New User
+520,433,False,VIP
+521,83,False,VIP
+522,740,False,VIP
+523,894,True,VIP
+524,162,False,VIP
+525,354,False,New User
+526,651,False,VIP
+527,878,True,New User
+528,571,True,Regular
+529,323,False,Regular
+530,644,False,New User
+531,679,False,Regular
+532,418,True,New User
+533,447,False,New User
+534,784,True,New User
+535,42,False,New User
+536,289,False,Regular
+537,370,True,VIP
+538,972,True,Regular
+539,868,False,New User
+540,535,False,New User
+541,247,True,New User
+542,534,False,VIP
+543,516,False,Regular
+544,268,False,New User
+545,288,False,New User
+546,40,False,Regular
+547,613,True,New User
+548,576,True,New User
+549,332,True,New User
+550,715,False,New User
+551,228,False,New User
+552,712,True,New User
+553,171,True,New User
+554,458,True,New User
+555,563,False,New User
+556,147,True,Regular
+557,824,False,Regular
+558,533,True,New User
+559,311,True,New User
+560,656,True,New User
+561,329,True,VIP
+562,771,False,VIP
+563,721,False,VIP
+564,86,False,New User
+565,179,True,VIP
+566,670,False,VIP
+567,452,False,VIP
+568,568,True,Regular
+569,745,True,New User
+570,90,True,VIP
+571,450,False,VIP
+572,478,True,Regular
+573,913,True,VIP
+574,621,True,Regular
+575,763,True,VIP
+576,947,False,Regular
+577,201,True,Regular
+578,654,True,New User
+579,118,False,Regular
+580,301,False,VIP
+581,568,True,VIP
+582,272,False,VIP
+583,823,False,VIP
+584,190,False,VIP
+585,694,True,New User
+586,663,False,VIP
+587,841,False,VIP
+588,945,False,New User
+589,596,False,VIP
+590,725,False,Regular
+591,203,False,VIP
+592,761,False,New User
+593,617,False,VIP
+594,308,False,Regular
+595,959,False,VIP
+596,840,False,New User
+597,987,True,Regular
+598,448,False,New User
+599,74,False,Regular
+600,504,False,New User
+601,22,False,VIP
+602,650,True,Regular
+603,402,False,Regular
+604,927,True,Regular
+605,605,False,Regular
+606,957,False,New User
+607,926,True,New User
+608,836,False,Regular
+609,530,True,VIP
+610,98,True,Regular
+611,332,True,New User
+612,862,True,Regular
+613,553,True,VIP
+614,843,False,VIP
+615,942,False,New User
+616,56,True,VIP
+617,481,True,New User
+618,74,False,VIP
+619,7,False,VIP
+620,951,True,Regular
+621,592,True,New User
+622,353,True,VIP
+623,148,False,Regular
+624,603,True,VIP
+625,572,True,Regular
+626,239,True,VIP
+627,466,True,Regular
+628,333,True,VIP
+629,971,False,New User
+630,252,False,VIP
+631,179,True,New User
+632,22,True,New User
+633,797,True,VIP
+634,797,True,New User
+635,146,True,New User
+636,653,True,New User
+637,649,False,New User
+638,872,False,Regular
+639,876,True,VIP
+640,901,True,New User
+641,118,False,New User
+642,886,True,New User
+643,938,False,VIP
+644,710,False,Regular
+645,687,False,VIP
+646,815,True,New User
+647,462,True,VIP
+648,610,True,VIP
+649,672,False,Regular
+650,658,True,VIP
+651,337,True,VIP
+652,316,True,New User
+653,128,False,Regular
+654,727,True,VIP
+655,364,True,VIP
+656,204,False,New User
+657,357,True,Regular
+658,191,False,New User
+659,37,True,New User
+660,56,False,VIP
+661,377,False,Regular
+662,801,False,Regular
+663,833,True,New User
+664,913,True,VIP
+665,854,True,Regular
+666,952,False,VIP
+667,307,False,Regular
+668,910,False,New User
+669,965,True,Regular
+670,310,True,VIP
+671,389,True,Regular
+672,818,False,New User
+673,834,False,New User
+674,605,False,New User
+675,849,True,VIP
+676,445,False,Regular
+677,557,False,Regular
+678,835,False,Regular
+679,369,True,New User
+680,797,False,VIP
+681,885,True,Regular
+682,516,True,New User
+683,605,False,New User
+684,902,True,Regular
+685,773,False,Regular
+686,227,True,Regular
+687,391,True,VIP
+688,474,True,New User
+689,490,False,VIP
+690,623,True,Regular
+691,70,True,Regular
+692,157,False,Regular
+693,199,False,Regular
+694,533,False,New User
+695,164,False,VIP
+696,113,True,VIP
+697,345,True,Regular
+698,503,True,VIP
+699,620,True,Regular
+700,549,True,Regular
+701,826,True,VIP
+702,947,True,Regular
+703,720,True,Regular
+704,207,False,VIP
+705,666,True,Regular
+706,236,False,Regular
+707,174,True,New User
+708,512,False,New User
+709,729,False,VIP
+710,978,False,VIP
+711,83,True,New User
+712,848,False,VIP
+713,582,True,New User
+714,203,True,New User
+715,761,False,New User
+716,200,False,Regular
+717,288,True,New User
+718,483,False,Regular
+719,315,False,Regular
+720,345,True,New User
+721,110,True,New User
+722,300,False,New User
+723,645,True,New User
+724,917,True,VIP
+725,790,True,Regular
+726,621,False,VIP
+727,476,False,New User
+728,367,True,Regular
+729,511,True,Regular
+730,943,False,New User
+731,836,False,Regular
+732,483,False,New User
+733,583,True,Regular
+734,806,False,VIP
+735,5,True,VIP
+736,483,False,New User
+737,946,True,Regular
+738,440,False,Regular
+739,369,True,Regular
+740,868,False,Regular
+741,461,False,Regular
+742,453,False,New User
+743,620,True,New User
+744,243,True,VIP
+745,719,True,VIP
+746,924,True,VIP
+747,233,True,VIP
+748,465,False,VIP
+749,561,False,New User
+750,253,True,VIP
+751,953,False,Regular
+752,948,True,New User
+753,33,False,Regular
+754,427,False,VIP
+755,344,True,New User
+756,86,True,VIP
+757,425,False,New User
+758,320,False,VIP
+759,296,True,Regular
+760,847,False,VIP
+761,293,True,New User
+762,581,False,New User
+763,849,False,VIP
+764,872,True,VIP
+765,408,False,VIP
+766,692,True,Regular
+767,206,True,New User
+768,420,True,Regular
+769,601,True,VIP
+770,349,False,New User
+771,936,True,VIP
+772,820,True,VIP
+773,67,True,New User
+774,533,True,VIP
+775,388,True,Regular
+776,33,False,Regular
+777,644,True,VIP
+778,721,True,New User
+779,577,False,Regular
+780,687,True,VIP
+781,50,True,VIP
+782,295,True,Regular
+783,884,True,VIP
+784,508,True,New User
+785,239,False,VIP
+786,342,False,Regular
+787,987,False,New User
+788,285,False,VIP
+789,266,True,New User
+790,288,True,VIP
+791,509,False,Regular
+792,891,False,New User
+793,622,True,VIP
+794,743,False,New User
+795,75,False,Regular
+796,506,False,VIP
+797,181,True,New User
+798,125,True,New User
+799,333,True,New User
+800,163,True,VIP
+801,417,True,New User
+802,310,True,Regular
+803,947,False,New User
+804,808,True,VIP
+805,243,True,Regular
+806,435,False,VIP
+807,815,True,Regular
+808,875,False,Regular
+809,518,True,New User
+810,133,False,New User
+811,210,True,Regular
+812,36,True,VIP
+813,720,False,Regular
+814,488,False,Regular
+815,414,False,VIP
+816,56,False,New User
+817,128,False,VIP
+818,190,True,VIP
+819,224,True,VIP
+820,504,True,Regular
+821,109,True,Regular
+822,184,True,New User
+823,690,True,Regular
+824,220,True,New User
+825,880,True,Regular
+826,228,False,VIP
+827,304,True,New User
+828,148,True,Regular
+829,726,True,Regular
+830,314,True,VIP
+831,364,True,New User
+832,108,True,VIP
+833,161,True,Regular
+834,959,True,New User
+835,306,False,VIP
+836,157,False,VIP
+837,149,False,Regular
+838,850,True,VIP
+839,877,True,Regular
+840,795,False,Regular
+841,907,True,Regular
+842,765,True,New User
+843,955,True,Regular
+844,36,False,Regular
+845,601,True,New User
+846,508,True,VIP
+847,47,True,New User
+848,732,False,Regular
+849,348,False,New User
+850,164,True,Regular
+851,699,True,VIP
+852,332,False,New User
+853,658,False,New User
+854,829,False,New User
+855,226,True,Regular
+856,197,False,Regular
+857,206,False,Regular
+858,859,True,Regular
+859,325,False,VIP
+860,409,True,New User
+861,923,False,VIP
+862,842,True,VIP
+863,52,False,Regular
+864,396,True,New User
+865,161,False,New User
+866,859,False,VIP
+867,778,True,Regular
+868,427,True,New User
+869,822,False,VIP
+870,602,True,VIP
+871,978,False,New User
+872,903,False,VIP
+873,998,True,Regular
+874,710,False,Regular
+875,889,True,VIP
+876,612,True,New User
+877,72,True,VIP
+878,339,False,New User
+879,806,False,New User
+880,556,True,Regular
+881,327,False,New User
+882,237,False,New User
+883,813,True,Regular
+884,41,True,New User
+885,785,True,New User
+886,301,False,Regular
+887,188,False,New User
+888,446,False,VIP
+889,611,True,New User
+890,507,True,Regular
+891,32,False,VIP
+892,609,True,Regular
+893,822,True,New User
+894,652,False,VIP
+895,639,False,New User
+896,913,False,Regular
+897,458,True,VIP
+898,466,True,VIP
+899,40,False,Regular
+900,132,True,Regular
+901,277,True,Regular
+902,659,True,New User
+903,496,True,VIP
+904,101,False,New User
+905,336,True,New User
+906,927,False,VIP
+907,320,True,New User
+908,613,True,VIP
+909,400,False,Regular
+910,476,False,Regular
+911,251,False,Regular
+912,74,True,New User
+913,795,False,Regular
+914,949,False,Regular
+915,836,False,VIP
+916,344,False,New User
+917,926,False,Regular
+918,937,False,New User
+919,954,False,Regular
+920,167,False,Regular
+921,204,True,VIP
+922,927,False,New User
+923,774,False,VIP
+924,736,True,Regular
+925,399,True,VIP
+926,540,True,Regular
+927,679,False,New User
+928,806,False,VIP
+929,366,False,Regular
+930,171,False,New User
+931,567,True,VIP
+932,472,True,New User
+933,997,False,VIP
+934,120,True,VIP
+935,273,False,New User
+936,659,True,New User
+937,961,True,VIP
+938,272,False,Regular
+939,752,False,VIP
+940,860,True,Regular
+941,398,True,Regular
+942,839,True,New User
+943,438,False,Regular
+944,308,False,Regular
+945,998,False,New User
+946,989,False,New User
+947,182,False,Regular
+948,294,True,New User
+949,576,False,Regular
+950,242,True,VIP
+951,200,False,New User
+952,626,False,VIP
+953,78,False,VIP
+954,629,False,VIP
+955,913,True,VIP
+956,339,False,VIP
+957,24,False,Regular
+958,460,False,VIP
+959,984,False,VIP
+960,823,True,Regular
+961,782,False,New User
+962,862,True,VIP
+963,200,True,New User
+964,383,False,New User
+965,3,True,Regular
+966,843,True,New User
+967,220,False,New User
+968,451,True,Regular
+969,195,False,Regular
+970,729,False,VIP
+971,999,False,New User
+972,890,False,VIP
+973,441,False,VIP
+974,190,False,New User
+975,457,True,New User
+976,524,False,Regular
+977,475,False,VIP
+978,808,False,Regular
+979,285,True,VIP
+980,432,True,VIP
+981,441,False,New User
+982,949,False,New User
+983,790,True,Regular
+984,672,True,VIP
+985,539,True,New User
+986,886,False,Regular
+987,587,True,New User
+988,545,True,VIP
+989,166,True,VIP
+990,261,True,New User
+991,217,False,VIP
+992,678,True,New User
+993,300,False,New User
+994,2,True,Regular
+995,660,False,New User
+996,486,True,VIP
+997,346,True,Regular
+998,959,True,Regular
+999,762,False,New User
+1000,147,False,Regular
