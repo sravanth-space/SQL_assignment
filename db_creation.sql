@@ -15,15 +15,15 @@ CREATE TABLE IF NOT EXISTS Products (
     product_rating REAL
 );
 
--- Create Orders 
+-- Create Orders Table
 CREATE TABLE IF NOT EXISTS Orders (
+    order_id INTEGER PRIMARY KEY,
     customer_id INTEGER,
     product_id INTEGER,
     quantity INTEGER NOT NULL,
     total_price REAL NOT NULL,
     order_status TEXT,
     feedback_rating TEXT,
-    PRIMARY KEY (customer_id, product_id),
     FOREIGN KEY (customer_id) REFERENCES Customers(customer_id),
     FOREIGN KEY (product_id) REFERENCES Products(product_id)
 );
@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS Shipping (
     shipping_method TEXT,
     shipping_cost REAL,
     discount_applied REAL,
-    FOREIGN KEY (order_id) REFERENCES Orders(customer_id, product_id)
+    FOREIGN KEY (order_id) REFERENCES Orders(order_id) 
 );
 
 -- Create Customer Behavior Table
