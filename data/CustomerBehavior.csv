@@ -1,1001 +1,1000 @@
-behavior_id,customer_id,cart_abandonment,customer_segment
-1,203,True,VIP
-2,827,False,Regular
-3,961,True,New User
-4,843,False,VIP
-5,303,False,Regular
-6,604,False,New User
-7,261,True,New User
-8,424,True,VIP
-9,483,False,Regular
-10,97,True,New User
-11,675,False,VIP
-12,362,False,Regular
-13,696,False,New User
-14,642,True,VIP
-15,941,True,Regular
-16,1,False,Regular
-17,375,False,Regular
-18,238,False,Regular
-19,377,False,New User
-20,29,False,VIP
-21,364,False,New User
-22,934,False,New User
-23,62,False,VIP
-24,605,True,New User
-25,563,False,Regular
-26,400,True,VIP
-27,394,True,VIP
-28,416,False,VIP
-29,182,True,VIP
-30,877,True,Regular
-31,456,False,VIP
-32,276,True,VIP
-33,103,True,Regular
-34,368,False,New User
-35,565,False,Regular
-36,382,False,VIP
-37,658,False,VIP
-38,597,True,VIP
-39,365,True,New User
-40,347,False,VIP
-41,241,False,Regular
-42,991,True,New User
-43,717,False,Regular
-44,940,True,VIP
-45,202,False,New User
-46,709,True,New User
-47,871,True,New User
-48,385,True,VIP
-49,887,True,New User
-50,329,True,VIP
-51,535,False,VIP
-52,864,False,Regular
-53,72,False,New User
-54,82,True,VIP
-55,262,False,Regular
-56,69,True,New User
-57,570,True,Regular
-58,364,False,Regular
-59,625,True,VIP
-60,852,False,VIP
-61,597,False,VIP
-62,273,True,Regular
-63,867,False,New User
-64,408,True,VIP
-65,387,False,Regular
-66,143,False,Regular
-67,386,False,New User
-68,97,True,VIP
-69,970,False,VIP
-70,412,True,New User
-71,873,True,Regular
-72,921,False,Regular
-73,614,True,Regular
-74,612,True,Regular
-75,942,False,VIP
-76,363,False,New User
-77,951,True,Regular
-78,635,False,Regular
-79,989,True,Regular
-80,727,True,New User
-81,93,True,VIP
-82,917,False,Regular
-83,128,False,VIP
-84,99,False,New User
-85,234,True,VIP
-86,126,False,VIP
-87,990,True,New User
-88,421,True,New User
-89,320,False,VIP
-90,174,True,New User
-91,722,False,New User
-92,777,True,New User
-93,478,True,VIP
-94,898,True,VIP
-95,432,False,VIP
-96,369,True,Regular
-97,240,True,Regular
-98,655,True,New User
-99,620,True,Regular
-100,664,False,Regular
-101,271,True,Regular
-102,653,True,New User
-103,32,True,VIP
-104,297,True,New User
-105,273,False,VIP
-106,780,False,New User
-107,332,True,VIP
-108,43,False,VIP
-109,226,False,VIP
-110,752,False,VIP
-111,53,True,VIP
-112,26,True,Regular
-113,865,False,New User
-114,134,False,VIP
-115,458,False,Regular
-116,90,True,Regular
-117,51,False,New User
-118,355,True,VIP
-119,550,True,Regular
-120,143,False,New User
-121,258,False,Regular
-122,860,True,New User
-123,940,True,New User
-124,150,False,New User
-125,454,True,VIP
-126,43,True,VIP
-127,453,False,New User
-128,48,False,Regular
-129,403,True,Regular
-130,904,True,Regular
-131,614,True,VIP
-132,144,True,VIP
-133,15,False,Regular
-134,289,False,New User
-135,243,False,New User
-136,961,True,Regular
-137,931,False,New User
-138,587,True,VIP
-139,71,False,VIP
-140,703,True,Regular
-141,438,True,Regular
-142,851,True,Regular
-143,588,False,Regular
-144,40,True,VIP
-145,954,True,Regular
-146,87,False,Regular
-147,580,False,Regular
-148,908,False,Regular
-149,796,True,Regular
-150,614,True,Regular
-151,332,False,VIP
-152,884,False,VIP
-153,69,False,New User
-154,637,True,Regular
-155,415,False,VIP
-156,279,True,New User
-157,762,True,Regular
-158,385,True,New User
-159,690,True,VIP
-160,154,False,Regular
-161,233,True,VIP
-162,69,False,VIP
-163,277,True,New User
-164,939,False,VIP
-165,296,True,New User
-166,364,False,VIP
-167,239,False,New User
-168,779,True,Regular
-169,890,False,New User
-170,224,False,Regular
-171,547,True,VIP
-172,515,False,New User
-173,604,True,VIP
-174,377,False,Regular
-175,20,True,VIP
-176,684,True,New User
-177,980,False,New User
-178,770,True,Regular
-179,206,False,Regular
-180,742,True,New User
-181,252,True,Regular
-182,94,False,Regular
-183,661,True,Regular
-184,578,False,Regular
-185,923,True,VIP
-186,431,False,New User
-187,470,True,Regular
-188,339,False,New User
-189,40,True,VIP
-190,770,False,VIP
-191,506,True,VIP
-192,697,False,New User
-193,297,True,New User
-194,824,True,VIP
-195,624,False,Regular
-196,411,True,VIP
-197,621,True,VIP
-198,217,True,New User
-199,463,False,Regular
-200,360,True,VIP
-201,694,False,New User
-202,32,False,Regular
-203,141,True,New User
-204,908,True,VIP
-205,175,False,VIP
-206,931,True,Regular
-207,716,True,VIP
-208,260,False,New User
-209,737,True,VIP
-210,932,False,New User
-211,565,True,Regular
-212,651,True,Regular
-213,737,True,New User
-214,281,False,VIP
-215,73,False,Regular
-216,546,False,Regular
-217,434,False,New User
-218,918,False,New User
-219,973,False,VIP
-220,929,False,VIP
-221,302,True,Regular
-222,345,False,VIP
-223,509,False,Regular
-224,604,False,VIP
-225,755,True,Regular
-226,90,False,Regular
-227,352,False,New User
-228,157,True,Regular
-229,884,False,VIP
-230,785,False,Regular
-231,477,True,New User
-232,947,False,Regular
-233,256,False,New User
-234,393,False,New User
-235,298,False,VIP
-236,103,True,New User
-237,774,False,VIP
-238,225,False,Regular
-239,645,True,VIP
-240,324,False,VIP
-241,237,False,New User
-242,197,True,New User
-243,498,True,Regular
-244,653,False,New User
-245,950,False,New User
-246,523,False,New User
-247,274,True,Regular
-248,351,True,VIP
-249,254,True,VIP
-250,50,False,New User
-251,843,False,Regular
-252,609,True,VIP
-253,369,False,New User
-254,142,False,New User
-255,93,True,New User
-256,576,False,Regular
-257,723,False,VIP
-258,81,True,VIP
-259,779,False,Regular
-260,676,False,VIP
-261,292,False,VIP
-262,400,True,Regular
-263,367,False,VIP
-264,1,False,VIP
-265,704,False,New User
-266,159,True,Regular
-267,682,True,New User
-268,401,False,Regular
-269,784,True,VIP
-270,918,True,New User
-271,986,False,Regular
-272,418,False,New User
-273,283,False,New User
-274,545,True,New User
-275,481,False,Regular
-276,341,False,Regular
-277,224,False,Regular
-278,785,True,New User
-279,879,False,Regular
-280,434,False,VIP
-281,96,False,VIP
-282,653,True,Regular
-283,530,False,Regular
-284,967,False,New User
-285,407,False,Regular
-286,981,True,VIP
-287,730,False,New User
-288,36,True,Regular
-289,65,False,Regular
-290,429,True,VIP
-291,603,True,VIP
-292,413,True,Regular
-293,538,True,New User
-294,317,False,Regular
-295,271,False,Regular
-296,683,True,New User
-297,946,False,VIP
-298,75,True,Regular
-299,730,True,New User
-300,714,True,VIP
-301,842,False,Regular
-302,137,False,VIP
-303,129,True,Regular
-304,989,False,Regular
-305,858,False,VIP
-306,573,False,VIP
-307,15,False,New User
-308,514,False,Regular
-309,121,True,VIP
-310,853,False,VIP
-311,379,False,New User
-312,354,True,New User
-313,13,False,New User
-314,10,False,Regular
-315,37,False,New User
-316,787,True,New User
-317,571,False,Regular
-318,638,False,Regular
-319,72,True,VIP
-320,746,True,VIP
-321,802,True,Regular
-322,131,False,Regular
-323,501,True,VIP
-324,186,False,Regular
-325,788,True,VIP
-326,427,False,VIP
-327,228,True,VIP
-328,48,False,VIP
-329,900,True,Regular
-330,255,True,New User
-331,307,False,Regular
-332,958,False,Regular
-333,598,True,VIP
-334,79,False,New User
-335,563,True,VIP
-336,766,True,New User
-337,47,False,Regular
-338,863,False,New User
-339,549,False,VIP
-340,280,False,New User
-341,665,False,VIP
-342,41,True,Regular
-343,480,True,New User
-344,605,False,Regular
-345,86,False,New User
-346,42,False,Regular
-347,229,False,Regular
-348,337,True,New User
-349,538,False,VIP
-350,770,True,Regular
-351,900,True,VIP
-352,864,True,New User
-353,137,False,Regular
-354,748,False,VIP
-355,480,False,New User
-356,280,False,VIP
-357,868,False,Regular
-358,819,True,New User
-359,869,False,Regular
-360,328,False,VIP
-361,79,False,Regular
-362,352,False,New User
-363,662,True,Regular
-364,631,False,VIP
-365,157,False,VIP
-366,300,False,New User
-367,731,True,VIP
-368,14,False,New User
-369,535,True,Regular
-370,280,True,New User
-371,968,False,VIP
-372,783,False,New User
-373,64,False,Regular
-374,190,True,Regular
-375,655,False,VIP
-376,374,False,Regular
-377,617,False,Regular
-378,452,False,Regular
-379,491,False,VIP
-380,519,False,VIP
-381,976,True,Regular
-382,757,True,VIP
-383,991,True,VIP
-384,59,False,New User
-385,708,False,VIP
-386,112,False,VIP
-387,898,False,VIP
-388,77,False,New User
-389,396,False,VIP
-390,247,False,Regular
-391,889,False,Regular
-392,793,False,New User
-393,688,False,New User
-394,184,True,New User
-395,428,False,Regular
-396,927,False,VIP
-397,915,True,Regular
-398,922,True,VIP
-399,839,False,VIP
-400,220,True,Regular
-401,86,False,New User
-402,689,True,Regular
-403,549,True,New User
-404,887,False,Regular
-405,828,True,VIP
-406,401,False,VIP
-407,17,True,New User
-408,212,True,Regular
-409,739,False,Regular
-410,216,False,New User
-411,566,False,New User
-412,880,False,Regular
-413,870,False,VIP
-414,875,True,VIP
-415,412,True,VIP
-416,910,False,VIP
-417,409,False,Regular
-418,830,True,New User
-419,25,True,VIP
-420,679,True,New User
-421,459,True,VIP
-422,858,False,VIP
-423,765,True,Regular
-424,826,False,New User
-425,847,False,Regular
-426,473,False,VIP
-427,448,False,Regular
-428,121,True,VIP
-429,333,False,VIP
-430,720,False,New User
-431,938,False,New User
-432,711,True,VIP
-433,886,False,New User
-434,873,False,VIP
-435,365,True,VIP
-436,11,False,VIP
-437,135,False,Regular
-438,173,True,New User
-439,500,False,New User
-440,828,True,New User
-441,210,True,VIP
-442,149,False,Regular
-443,658,False,New User
-444,427,False,New User
-445,198,False,VIP
-446,687,False,New User
-447,4,False,New User
-448,724,True,New User
-449,536,False,Regular
-450,343,True,New User
-451,194,False,VIP
-452,474,False,New User
-453,684,False,Regular
-454,814,False,Regular
-455,486,False,VIP
-456,504,True,New User
-457,294,False,VIP
-458,518,False,Regular
-459,27,True,VIP
-460,642,False,New User
-461,630,False,New User
-462,670,False,New User
-463,748,True,New User
-464,763,True,Regular
-465,534,True,New User
-466,596,True,VIP
-467,706,True,New User
-468,536,False,Regular
-469,154,True,VIP
-470,127,True,New User
-471,266,False,New User
-472,207,True,Regular
-473,9,True,Regular
-474,239,False,Regular
-475,700,True,VIP
-476,543,False,VIP
-477,591,False,Regular
-478,173,False,VIP
-479,872,False,VIP
-480,376,True,VIP
-481,896,True,New User
-482,834,True,New User
-483,801,False,VIP
-484,245,False,New User
-485,612,False,New User
-486,237,False,VIP
-487,20,True,Regular
-488,637,False,VIP
-489,356,True,New User
-490,902,True,VIP
-491,967,True,New User
-492,591,False,VIP
-493,237,True,New User
-494,559,False,VIP
-495,585,True,New User
-496,821,True,Regular
-497,67,False,Regular
-498,694,True,VIP
-499,302,True,New User
-500,623,True,Regular
-501,497,False,VIP
-502,700,True,Regular
-503,597,False,VIP
-504,525,True,Regular
-505,154,True,Regular
-506,418,False,Regular
-507,929,True,New User
-508,498,True,Regular
-509,513,False,New User
-510,45,True,New User
-511,567,False,New User
-512,761,False,VIP
-513,889,False,VIP
-514,568,True,New User
-515,969,True,New User
-516,650,True,VIP
-517,196,True,New User
-518,220,True,New User
-519,232,True,New User
-520,61,True,Regular
-521,101,False,VIP
-522,833,True,Regular
-523,943,False,New User
-524,332,False,Regular
-525,150,True,Regular
-526,180,False,New User
-527,981,False,Regular
-528,795,True,VIP
-529,263,True,Regular
-530,553,True,VIP
-531,805,False,New User
-532,127,False,VIP
-533,849,True,VIP
-534,128,False,VIP
-535,828,True,Regular
-536,371,True,Regular
-537,452,False,Regular
-538,33,False,VIP
-539,657,False,New User
-540,219,True,VIP
-541,393,False,VIP
-542,54,False,VIP
-543,477,False,New User
-544,596,False,Regular
-545,332,False,New User
-546,608,True,Regular
-547,119,False,Regular
-548,877,False,New User
-549,3,True,Regular
-550,770,True,New User
-551,576,True,VIP
-552,784,True,VIP
-553,656,False,Regular
-554,494,False,VIP
-555,866,True,New User
-556,585,False,Regular
-557,639,False,Regular
-558,507,True,Regular
-559,848,True,New User
-560,143,True,Regular
-561,228,True,Regular
-562,64,False,Regular
-563,439,True,New User
-564,613,True,VIP
-565,71,True,New User
-566,277,False,VIP
-567,660,True,VIP
-568,189,True,VIP
-569,430,True,Regular
-570,919,True,VIP
-571,274,False,VIP
-572,439,True,VIP
-573,704,True,New User
-574,502,True,VIP
-575,929,False,Regular
-576,336,True,New User
-577,740,False,VIP
-578,350,True,Regular
-579,481,False,Regular
-580,850,True,New User
-581,831,False,VIP
-582,965,True,New User
-583,722,True,VIP
-584,109,True,New User
-585,385,True,New User
-586,237,False,New User
-587,961,False,Regular
-588,123,False,Regular
-589,240,False,Regular
-590,205,True,VIP
-591,179,False,New User
-592,489,False,VIP
-593,631,True,New User
-594,562,True,Regular
-595,377,False,VIP
-596,800,True,Regular
-597,558,True,VIP
-598,682,True,VIP
-599,222,True,New User
-600,865,True,Regular
-601,537,False,VIP
-602,746,True,New User
-603,859,True,VIP
-604,130,False,VIP
-605,210,True,Regular
-606,449,True,Regular
-607,927,True,Regular
-608,349,False,Regular
-609,657,True,New User
-610,994,False,Regular
-611,666,True,Regular
-612,849,True,New User
-613,696,True,New User
-614,343,True,New User
-615,971,False,VIP
-616,44,False,Regular
-617,761,False,New User
-618,784,True,New User
-619,992,True,VIP
-620,718,True,New User
-621,998,False,New User
-622,270,False,VIP
-623,162,False,New User
-624,554,True,New User
-625,718,False,New User
-626,673,False,New User
-627,592,False,New User
-628,377,False,VIP
-629,534,False,New User
-630,785,True,Regular
-631,885,False,VIP
-632,567,False,New User
-633,151,True,Regular
-634,477,False,New User
-635,691,False,New User
-636,740,True,VIP
-637,731,False,Regular
-638,442,False,Regular
-639,218,True,VIP
-640,981,False,Regular
-641,389,False,New User
-642,296,False,VIP
-643,1000,True,Regular
-644,700,True,Regular
-645,413,False,New User
-646,397,True,Regular
-647,472,False,VIP
-648,259,True,Regular
-649,403,False,New User
-650,353,True,New User
-651,934,True,New User
-652,710,False,Regular
-653,665,True,New User
-654,99,False,Regular
-655,582,False,New User
-656,342,False,New User
-657,274,False,Regular
-658,104,False,VIP
-659,180,True,VIP
-660,414,False,Regular
-661,452,True,Regular
-662,216,False,Regular
-663,866,False,Regular
-664,874,True,VIP
-665,57,True,VIP
-666,170,False,New User
-667,852,True,Regular
-668,705,True,New User
-669,149,True,New User
-670,230,True,Regular
-671,29,True,VIP
-672,825,True,Regular
-673,688,False,VIP
-674,109,False,VIP
-675,979,False,New User
-676,772,False,Regular
-677,768,False,Regular
-678,235,False,Regular
-679,951,False,New User
-680,328,False,VIP
-681,678,True,New User
-682,470,False,New User
-683,143,True,Regular
-684,478,False,New User
-685,457,True,VIP
-686,615,True,VIP
-687,156,True,VIP
-688,597,False,Regular
-689,640,True,Regular
-690,494,False,New User
-691,760,True,VIP
-692,118,True,New User
-693,923,True,Regular
-694,521,False,New User
-695,196,True,VIP
-696,956,False,New User
-697,44,True,Regular
-698,915,False,Regular
-699,616,True,Regular
-700,11,False,Regular
-701,218,False,VIP
-702,349,True,New User
-703,746,True,VIP
-704,270,True,Regular
-705,334,False,VIP
-706,137,False,VIP
-707,750,False,Regular
-708,968,False,VIP
-709,618,False,New User
-710,974,True,Regular
-711,726,False,New User
-712,198,False,VIP
-713,686,False,New User
-714,834,False,New User
-715,656,False,Regular
-716,155,False,Regular
-717,801,True,VIP
-718,265,False,VIP
-719,438,False,VIP
-720,778,False,Regular
-721,25,False,New User
-722,826,False,VIP
-723,120,False,VIP
-724,608,True,VIP
-725,722,True,Regular
-726,991,False,Regular
-727,819,False,New User
-728,216,True,New User
-729,872,True,VIP
-730,930,True,New User
-731,419,False,Regular
-732,184,False,Regular
-733,956,True,Regular
-734,127,True,Regular
-735,862,False,VIP
-736,421,False,VIP
-737,24,False,Regular
-738,224,False,New User
-739,611,False,Regular
-740,682,True,VIP
-741,324,False,Regular
-742,404,True,New User
-743,836,False,New User
-744,234,False,VIP
-745,826,False,Regular
-746,743,False,New User
-747,729,False,VIP
-748,143,True,Regular
-749,769,True,Regular
-750,284,False,Regular
-751,201,False,VIP
-752,540,True,New User
-753,650,False,VIP
-754,398,False,New User
-755,322,True,New User
-756,570,False,VIP
-757,553,True,Regular
-758,591,True,VIP
-759,130,True,Regular
-760,847,True,Regular
-761,511,False,VIP
-762,243,False,Regular
-763,257,False,New User
-764,859,True,VIP
-765,890,True,Regular
-766,127,False,New User
-767,695,False,New User
-768,576,True,New User
-769,302,True,VIP
-770,291,True,Regular
-771,227,False,New User
-772,268,True,New User
-773,87,True,Regular
-774,659,False,VIP
-775,689,True,Regular
-776,752,True,VIP
-777,816,True,New User
-778,363,True,VIP
-779,618,False,New User
-780,313,False,New User
-781,340,False,Regular
-782,749,True,Regular
-783,563,True,New User
-784,72,True,New User
-785,326,True,New User
-786,594,False,New User
-787,472,False,Regular
-788,60,True,VIP
-789,730,True,VIP
-790,963,True,VIP
-791,96,True,VIP
-792,257,True,VIP
-793,504,True,Regular
-794,95,True,Regular
-795,797,False,Regular
-796,534,True,Regular
-797,991,True,VIP
-798,847,True,Regular
-799,915,False,Regular
-800,286,False,Regular
-801,501,True,Regular
-802,361,False,VIP
-803,957,False,VIP
-804,539,True,VIP
-805,927,False,Regular
-806,57,True,New User
-807,479,False,New User
-808,964,True,New User
-809,655,False,New User
-810,56,True,New User
-811,446,False,Regular
-812,658,True,Regular
-813,490,True,VIP
-814,974,True,Regular
-815,251,True,VIP
-816,475,False,Regular
-817,48,True,New User
-818,219,True,New User
-819,150,True,Regular
-820,142,False,New User
-821,311,True,New User
-822,441,True,VIP
-823,274,False,New User
-824,810,False,New User
-825,761,False,Regular
-826,952,True,Regular
-827,622,True,New User
-828,393,True,VIP
-829,524,False,VIP
-830,785,False,VIP
-831,744,True,Regular
-832,526,True,VIP
-833,391,True,Regular
-834,574,True,Regular
-835,847,False,Regular
-836,353,True,VIP
-837,31,False,Regular
-838,8,False,New User
-839,366,True,Regular
-840,670,False,New User
-841,179,False,VIP
-842,60,True,VIP
-843,444,False,VIP
-844,474,True,New User
-845,361,True,Regular
-846,276,True,VIP
-847,923,True,Regular
-848,23,False,New User
-849,590,True,New User
-850,813,False,Regular
-851,842,False,Regular
-852,744,False,Regular
-853,381,True,VIP
-854,581,False,Regular
-855,509,False,New User
-856,124,True,New User
-857,48,False,Regular
-858,941,False,VIP
-859,151,False,VIP
-860,711,True,Regular
-861,667,False,Regular
-862,495,True,Regular
-863,681,False,VIP
-864,290,False,New User
-865,787,False,New User
-866,487,True,New User
-867,575,False,VIP
-868,240,True,Regular
-869,300,True,New User
-870,504,False,New User
-871,548,False,Regular
-872,256,False,Regular
-873,444,False,New User
-874,701,True,Regular
-875,850,False,New User
-876,823,False,New User
-877,985,False,New User
-878,544,True,Regular
-879,135,True,Regular
-880,514,True,Regular
-881,357,True,VIP
-882,423,True,Regular
-883,694,False,New User
-884,873,False,VIP
-885,336,True,VIP
-886,799,True,VIP
-887,420,True,New User
-888,934,False,VIP
-889,355,False,VIP
-890,875,True,VIP
-891,746,True,New User
-892,500,True,Regular
-893,743,True,VIP
-894,875,False,Regular
-895,147,True,Regular
-896,45,True,VIP
-897,838,False,New User
-898,876,False,New User
-899,7,False,New User
-900,899,True,Regular
-901,716,False,Regular
-902,998,False,VIP
-903,443,True,VIP
-904,560,False,VIP
-905,250,True,Regular
-906,691,True,VIP
-907,630,True,Regular
-908,719,True,Regular
-909,903,True,New User
-910,520,True,New User
-911,710,True,New User
-912,671,False,New User
-913,616,True,New User
-914,495,True,VIP
-915,26,True,VIP
-916,258,False,Regular
-917,339,True,VIP
-918,972,False,New User
-919,201,True,Regular
-920,804,False,New User
-921,625,True,Regular
-922,671,False,Regular
-923,117,False,New User
-924,894,True,VIP
-925,921,False,Regular
-926,187,False,New User
-927,738,True,VIP
-928,739,True,New User
-929,450,False,New User
-930,950,False,New User
-931,285,False,VIP
-932,794,True,VIP
-933,77,True,New User
-934,502,False,Regular
-935,361,True,Regular
-936,332,False,Regular
-937,237,False,New User
-938,239,False,VIP
-939,432,True,VIP
-940,115,False,New User
-941,899,True,VIP
-942,16,False,VIP
-943,451,False,New User
-944,598,True,VIP
-945,561,True,Regular
-946,472,False,Regular
-947,508,False,Regular
-948,58,True,VIP
-949,822,False,VIP
-950,496,True,VIP
-951,473,True,VIP
-952,687,False,New User
-953,104,True,Regular
-954,249,False,VIP
-955,765,True,Regular
-956,705,False,Regular
-957,611,True,Regular
-958,628,True,VIP
-959,811,True,New User
-960,543,True,Regular
-961,482,False,VIP
-962,329,True,VIP
-963,16,True,Regular
-964,457,True,Regular
-965,904,True,VIP
-966,157,True,VIP
-967,156,False,VIP
-968,37,True,Regular
-969,459,True,Regular
-970,830,False,VIP
-971,970,False,New User
-972,160,True,New User
-973,165,True,VIP
-974,108,True,New User
-975,812,True,VIP
-976,742,True,Regular
-977,309,True,Regular
-978,521,True,Regular
-979,770,False,New User
-980,448,False,Regular
-981,432,True,VIP
-982,368,True,New User
-983,153,False,VIP
-984,310,True,New User
-985,61,False,New User
-986,961,False,Regular
-987,958,False,New User
-988,7,True,Regular
-989,636,True,VIP
-990,882,False,VIP
-991,403,True,New User
-992,970,False,New User
-993,389,True,VIP
-994,876,True,VIP
-995,837,True,VIP
-996,873,True,Regular
-997,71,True,Regular
-998,857,False,Regular
-999,496,True,VIP
-1000,632,True,Regular
+1,148,True,New User
+2,739,False,New User
+3,493,False,New User
+4,321,True,New User
+5,339,True,VIP
+6,247,False,New User
+7,244,False,New User
+8,44,True,VIP
+9,878,True,Regular
+10,185,False,Regular
+11,389,True,Regular
+12,948,False,Regular
+13,365,True,Regular
+14,172,True,Regular
+15,18,False,VIP
+16,841,True,New User
+17,282,True,Regular
+18,495,True,VIP
+19,653,True,Regular
+20,885,True,VIP
+21,653,True,Regular
+22,387,False,VIP
+23,996,False,New User
+24,592,True,VIP
+25,661,True,Regular
+26,476,False,New User
+27,640,False,Regular
+28,62,False,Regular
+29,581,True,VIP
+30,310,True,New User
+31,686,False,Regular
+32,709,False,VIP
+33,234,False,VIP
+34,233,True,Regular
+35,566,False,New User
+36,171,False,New User
+37,730,True,VIP
+38,696,False,VIP
+39,157,True,VIP
+40,856,True,VIP
+41,229,True,New User
+42,695,True,VIP
+43,194,False,VIP
+44,387,True,Regular
+45,847,False,Regular
+46,868,True,Regular
+47,651,False,New User
+48,691,True,New User
+49,169,False,VIP
+50,796,False,New User
+51,522,True,VIP
+52,376,False,New User
+53,448,False,Regular
+54,229,False,VIP
+55,598,False,Regular
+56,327,True,Regular
+57,861,False,VIP
+58,574,False,New User
+59,607,False,New User
+60,118,False,New User
+61,106,False,VIP
+62,84,False,VIP
+63,134,True,New User
+64,639,True,New User
+65,66,False,VIP
+66,403,True,New User
+67,386,False,Regular
+68,7,True,VIP
+69,407,False,Regular
+70,468,False,VIP
+71,475,False,Regular
+72,5,True,Regular
+73,91,False,Regular
+74,904,True,New User
+75,61,False,New User
+76,914,True,VIP
+77,200,False,VIP
+78,992,False,Regular
+79,671,False,Regular
+80,621,True,Regular
+81,718,False,New User
+82,695,False,VIP
+83,380,True,VIP
+84,899,False,VIP
+85,480,True,Regular
+86,354,True,VIP
+87,546,False,New User
+88,961,True,New User
+89,23,True,VIP
+90,365,True,New User
+91,888,True,VIP
+92,316,False,VIP
+93,49,True,Regular
+94,57,False,VIP
+95,177,False,Regular
+96,874,True,Regular
+97,686,False,VIP
+98,96,True,New User
+99,867,False,New User
+100,196,True,Regular
+101,723,False,VIP
+102,694,False,Regular
+103,804,False,Regular
+104,78,False,Regular
+105,861,False,New User
+106,118,True,New User
+107,332,True,New User
+108,864,True,New User
+109,736,False,Regular
+110,179,False,VIP
+111,282,False,New User
+112,977,True,New User
+113,463,True,VIP
+114,218,False,VIP
+115,468,False,Regular
+116,783,True,VIP
+117,859,True,Regular
+118,378,True,New User
+119,319,False,Regular
+120,374,False,New User
+121,926,True,New User
+122,713,True,VIP
+123,192,False,VIP
+124,233,False,VIP
+125,587,False,New User
+126,937,True,VIP
+127,922,False,New User
+128,475,True,VIP
+129,564,False,New User
+130,252,False,Regular
+131,258,True,VIP
+132,933,True,Regular
+133,732,False,VIP
+134,395,True,Regular
+135,608,False,VIP
+136,916,False,VIP
+137,705,True,VIP
+138,486,True,New User
+139,967,True,VIP
+140,332,True,New User
+141,874,False,VIP
+142,150,True,Regular
+143,197,True,New User
+144,325,False,New User
+145,1,True,New User
+146,908,True,Regular
+147,141,True,Regular
+148,347,False,New User
+149,257,False,New User
+150,241,False,New User
+151,990,True,VIP
+152,220,False,Regular
+153,473,True,Regular
+154,315,False,VIP
+155,173,True,New User
+156,866,True,Regular
+157,607,False,Regular
+158,451,True,Regular
+159,964,True,VIP
+160,818,False,VIP
+161,502,True,VIP
+162,838,True,VIP
+163,93,False,Regular
+164,589,True,Regular
+165,612,False,Regular
+166,752,True,Regular
+167,605,True,VIP
+168,117,False,New User
+169,791,True,New User
+170,615,True,Regular
+171,24,False,VIP
+172,472,False,New User
+173,773,True,VIP
+174,322,False,Regular
+175,216,True,Regular
+176,69,True,New User
+177,714,False,Regular
+178,724,False,Regular
+179,380,True,Regular
+180,459,True,Regular
+181,149,False,Regular
+182,774,True,New User
+183,909,False,Regular
+184,983,True,New User
+185,105,True,Regular
+186,565,True,New User
+187,879,True,Regular
+188,251,False,New User
+189,742,True,New User
+190,924,False,New User
+191,53,True,VIP
+192,763,True,Regular
+193,943,False,Regular
+194,260,False,Regular
+195,515,False,New User
+196,983,True,New User
+197,46,False,VIP
+198,734,False,Regular
+199,132,False,New User
+200,835,False,VIP
+201,354,False,VIP
+202,674,True,New User
+203,632,False,New User
+204,363,False,VIP
+205,552,False,Regular
+206,794,True,VIP
+207,966,False,New User
+208,810,True,New User
+209,356,False,VIP
+210,483,True,VIP
+211,122,False,VIP
+212,895,True,VIP
+213,558,False,New User
+214,309,True,VIP
+215,978,False,VIP
+216,927,True,VIP
+217,416,True,Regular
+218,897,True,Regular
+219,459,False,New User
+220,826,True,VIP
+221,248,True,New User
+222,463,False,Regular
+223,98,True,Regular
+224,176,True,New User
+225,548,False,VIP
+226,267,True,Regular
+227,442,False,Regular
+228,980,False,Regular
+229,436,False,Regular
+230,796,True,VIP
+231,172,False,New User
+232,936,True,Regular
+233,519,True,New User
+234,424,True,Regular
+235,978,False,VIP
+236,34,False,VIP
+237,850,True,VIP
+238,482,False,Regular
+239,665,False,New User
+240,20,True,Regular
+241,395,True,Regular
+242,133,True,Regular
+243,152,False,Regular
+244,262,False,New User
+245,11,True,Regular
+246,20,True,VIP
+247,373,False,Regular
+248,731,True,Regular
+249,413,True,VIP
+250,371,True,Regular
+251,424,True,VIP
+252,510,True,Regular
+253,132,False,New User
+254,35,False,VIP
+255,627,False,New User
+256,86,False,Regular
+257,957,False,VIP
+258,318,True,Regular
+259,773,True,VIP
+260,397,False,Regular
+261,903,True,New User
+262,246,True,New User
+263,614,False,New User
+264,162,False,VIP
+265,911,True,Regular
+266,156,False,VIP
+267,299,False,New User
+268,927,False,VIP
+269,52,True,VIP
+270,575,False,VIP
+271,568,False,New User
+272,518,True,Regular
+273,6,False,Regular
+274,840,False,New User
+275,140,False,New User
+276,744,False,Regular
+277,749,False,VIP
+278,621,True,Regular
+279,35,False,Regular
+280,412,False,Regular
+281,969,True,New User
+282,211,True,Regular
+283,97,False,Regular
+284,908,True,New User
+285,342,False,VIP
+286,189,True,New User
+287,616,False,VIP
+288,363,False,New User
+289,572,True,New User
+290,712,True,New User
+291,85,True,Regular
+292,901,False,VIP
+293,885,True,Regular
+294,531,False,New User
+295,484,False,Regular
+296,87,True,New User
+297,729,True,VIP
+298,122,True,Regular
+299,233,True,New User
+300,226,False,New User
+301,298,True,New User
+302,413,False,New User
+303,405,True,Regular
+304,671,True,New User
+305,169,True,VIP
+306,436,True,VIP
+307,315,True,VIP
+308,139,False,Regular
+309,131,True,Regular
+310,627,True,New User
+311,767,False,Regular
+312,729,False,Regular
+313,114,True,New User
+314,381,False,Regular
+315,893,False,VIP
+316,542,True,VIP
+317,697,True,VIP
+318,208,False,Regular
+319,645,True,New User
+320,56,False,VIP
+321,628,False,New User
+322,930,True,VIP
+323,392,True,VIP
+324,395,True,New User
+325,517,False,VIP
+326,666,True,New User
+327,530,False,New User
+328,736,True,VIP
+329,768,False,New User
+330,673,True,VIP
+331,894,False,New User
+332,796,True,VIP
+333,12,True,Regular
+334,179,True,VIP
+335,857,False,New User
+336,938,True,VIP
+337,565,False,VIP
+338,741,False,New User
+339,531,False,VIP
+340,809,False,New User
+341,24,True,New User
+342,568,True,New User
+343,817,False,VIP
+344,695,False,New User
+345,829,False,VIP
+346,334,True,New User
+347,680,False,New User
+348,140,True,New User
+349,625,True,VIP
+350,447,False,VIP
+351,953,True,New User
+352,381,False,Regular
+353,716,False,Regular
+354,178,True,Regular
+355,141,True,New User
+356,349,True,Regular
+357,383,False,VIP
+358,670,False,VIP
+359,470,True,Regular
+360,317,True,Regular
+361,384,True,Regular
+362,769,False,New User
+363,337,True,VIP
+364,413,False,New User
+365,999,True,VIP
+366,810,False,New User
+367,746,False,VIP
+368,448,True,VIP
+369,426,True,VIP
+370,434,False,Regular
+371,638,False,New User
+372,920,True,New User
+373,560,True,VIP
+374,104,True,Regular
+375,383,True,VIP
+376,359,True,New User
+377,988,True,VIP
+378,30,False,New User
+379,321,True,VIP
+380,432,True,Regular
+381,150,False,Regular
+382,20,False,Regular
+383,569,False,VIP
+384,816,False,Regular
+385,870,True,New User
+386,504,True,Regular
+387,967,False,Regular
+388,112,False,New User
+389,247,False,Regular
+390,324,True,New User
+391,506,False,Regular
+392,218,False,New User
+393,203,True,VIP
+394,128,True,VIP
+395,975,True,VIP
+396,606,True,New User
+397,95,False,Regular
+398,142,False,New User
+399,603,True,Regular
+400,971,False,New User
+401,260,True,VIP
+402,235,True,New User
+403,682,False,Regular
+404,332,False,VIP
+405,220,False,VIP
+406,795,True,VIP
+407,60,True,VIP
+408,691,True,New User
+409,879,False,VIP
+410,620,False,VIP
+411,982,False,Regular
+412,341,False,VIP
+413,530,True,VIP
+414,845,True,VIP
+415,548,True,New User
+416,329,True,New User
+417,53,True,Regular
+418,802,True,Regular
+419,238,True,New User
+420,938,True,Regular
+421,472,False,New User
+422,47,False,VIP
+423,835,True,New User
+424,934,False,Regular
+425,91,False,VIP
+426,958,False,New User
+427,235,False,New User
+428,135,False,VIP
+429,385,True,VIP
+430,961,False,VIP
+431,998,False,Regular
+432,156,False,VIP
+433,83,True,VIP
+434,585,True,VIP
+435,586,True,VIP
+436,927,True,Regular
+437,394,True,VIP
+438,604,True,VIP
+439,835,False,New User
+440,156,False,VIP
+441,531,False,VIP
+442,395,True,Regular
+443,35,True,Regular
+444,235,False,VIP
+445,992,False,New User
+446,831,True,New User
+447,45,True,New User
+448,494,False,New User
+449,12,False,VIP
+450,298,False,Regular
+451,995,False,Regular
+452,762,False,Regular
+453,181,True,VIP
+454,229,False,VIP
+455,530,True,New User
+456,773,False,Regular
+457,270,False,New User
+458,504,False,VIP
+459,936,True,VIP
+460,337,True,New User
+461,133,False,Regular
+462,773,True,VIP
+463,433,True,New User
+464,794,False,New User
+465,596,False,New User
+466,861,False,Regular
+467,427,False,VIP
+468,372,False,Regular
+469,25,True,New User
+470,942,True,Regular
+471,387,False,New User
+472,756,False,VIP
+473,530,False,VIP
+474,683,True,Regular
+475,48,False,VIP
+476,389,False,VIP
+477,833,True,VIP
+478,363,False,VIP
+479,279,False,Regular
+480,69,True,New User
+481,665,False,New User
+482,108,False,VIP
+483,973,True,New User
+484,438,True,Regular
+485,743,True,Regular
+486,441,False,VIP
+487,574,True,VIP
+488,595,True,VIP
+489,312,True,VIP
+490,997,False,VIP
+491,718,False,Regular
+492,894,True,New User
+493,426,False,VIP
+494,952,True,New User
+495,557,True,New User
+496,164,True,New User
+497,557,False,Regular
+498,559,False,VIP
+499,11,True,VIP
+500,956,True,VIP
+501,628,False,New User
+502,552,True,Regular
+503,173,False,Regular
+504,31,False,Regular
+505,931,True,Regular
+506,350,True,New User
+507,58,True,VIP
+508,598,False,VIP
+509,37,False,New User
+510,391,True,New User
+511,291,True,Regular
+512,97,False,VIP
+513,625,True,Regular
+514,90,True,New User
+515,219,True,Regular
+516,411,True,VIP
+517,604,True,Regular
+518,500,False,New User
+519,658,True,VIP
+520,564,True,Regular
+521,363,False,VIP
+522,280,True,New User
+523,937,False,Regular
+524,512,True,New User
+525,662,False,New User
+526,702,False,New User
+527,118,False,VIP
+528,825,False,VIP
+529,6,True,VIP
+530,795,False,Regular
+531,429,False,New User
+532,282,True,New User
+533,109,True,Regular
+534,288,False,Regular
+535,493,True,Regular
+536,178,False,VIP
+537,600,False,Regular
+538,734,False,Regular
+539,833,True,VIP
+540,669,False,VIP
+541,997,True,New User
+542,773,True,New User
+543,223,True,New User
+544,291,True,VIP
+545,263,False,New User
+546,738,False,VIP
+547,630,True,VIP
+548,712,True,VIP
+549,451,False,VIP
+550,745,False,VIP
+551,62,True,Regular
+552,966,True,VIP
+553,625,True,VIP
+554,469,True,VIP
+555,744,False,New User
+556,618,False,VIP
+557,770,True,Regular
+558,808,False,Regular
+559,526,True,New User
+560,357,True,Regular
+561,97,False,Regular
+562,573,True,New User
+563,496,False,New User
+564,380,False,New User
+565,682,False,Regular
+566,479,True,VIP
+567,800,False,Regular
+568,131,False,VIP
+569,686,False,Regular
+570,50,False,VIP
+571,40,True,New User
+572,741,True,New User
+573,922,True,Regular
+574,206,True,Regular
+575,477,True,Regular
+576,456,False,New User
+577,22,False,Regular
+578,675,True,VIP
+579,90,True,VIP
+580,880,False,VIP
+581,784,True,New User
+582,791,False,VIP
+583,100,False,VIP
+584,809,False,New User
+585,829,True,Regular
+586,870,True,Regular
+587,857,False,Regular
+588,503,False,VIP
+589,733,True,VIP
+590,819,False,Regular
+591,438,True,VIP
+592,533,False,VIP
+593,695,False,VIP
+594,495,False,VIP
+595,226,True,New User
+596,869,True,VIP
+597,859,False,VIP
+598,20,True,VIP
+599,333,True,VIP
+600,924,False,New User
+601,645,False,New User
+602,869,False,VIP
+603,577,False,New User
+604,186,True,Regular
+605,312,True,New User
+606,191,True,Regular
+607,317,True,Regular
+608,624,False,Regular
+609,423,False,VIP
+610,770,False,New User
+611,25,False,New User
+612,425,False,Regular
+613,423,True,VIP
+614,197,True,Regular
+615,578,False,VIP
+616,301,False,VIP
+617,566,True,Regular
+618,914,True,New User
+619,472,True,New User
+620,928,True,VIP
+621,414,False,Regular
+622,482,True,VIP
+623,844,False,New User
+624,556,False,VIP
+625,971,False,VIP
+626,351,True,VIP
+627,686,False,VIP
+628,787,True,Regular
+629,148,False,New User
+630,420,True,New User
+631,788,True,VIP
+632,144,True,Regular
+633,123,True,VIP
+634,638,True,VIP
+635,958,True,New User
+636,723,False,Regular
+637,618,True,VIP
+638,586,True,New User
+639,337,True,New User
+640,938,False,Regular
+641,975,True,New User
+642,521,True,Regular
+643,905,True,VIP
+644,541,True,New User
+645,812,True,VIP
+646,810,False,Regular
+647,587,True,Regular
+648,463,False,New User
+649,330,False,Regular
+650,89,False,New User
+651,828,False,New User
+652,472,False,New User
+653,295,False,New User
+654,177,True,VIP
+655,231,True,New User
+656,49,True,New User
+657,468,False,Regular
+658,933,True,Regular
+659,462,True,Regular
+660,818,False,VIP
+661,433,False,VIP
+662,622,False,New User
+663,828,False,VIP
+664,147,False,Regular
+665,171,True,Regular
+666,620,False,VIP
+667,953,False,New User
+668,868,True,VIP
+669,58,True,New User
+670,407,True,New User
+671,760,True,New User
+672,949,True,New User
+673,509,True,Regular
+674,357,False,New User
+675,631,True,Regular
+676,71,False,New User
+677,494,False,VIP
+678,618,False,Regular
+679,491,False,VIP
+680,925,False,VIP
+681,960,True,New User
+682,737,False,Regular
+683,399,False,VIP
+684,79,False,VIP
+685,139,False,VIP
+686,192,False,Regular
+687,523,False,VIP
+688,411,False,VIP
+689,198,False,Regular
+690,523,True,Regular
+691,255,True,VIP
+692,803,True,VIP
+693,788,True,VIP
+694,119,False,New User
+695,161,False,Regular
+696,808,True,Regular
+697,312,True,New User
+698,113,True,Regular
+699,346,False,VIP
+700,42,True,New User
+701,83,False,VIP
+702,456,False,Regular
+703,437,False,New User
+704,192,False,New User
+705,987,True,New User
+706,523,False,Regular
+707,267,False,New User
+708,146,False,VIP
+709,211,True,VIP
+710,678,False,New User
+711,346,True,Regular
+712,931,False,Regular
+713,131,False,Regular
+714,429,False,Regular
+715,619,True,Regular
+716,178,False,VIP
+717,124,False,Regular
+718,356,False,Regular
+719,456,True,Regular
+720,215,False,VIP
+721,712,False,New User
+722,335,False,Regular
+723,229,True,Regular
+724,431,True,New User
+725,675,True,VIP
+726,620,False,Regular
+727,987,False,VIP
+728,51,True,New User
+729,582,False,New User
+730,733,False,VIP
+731,702,True,New User
+732,628,True,Regular
+733,789,True,New User
+734,476,False,New User
+735,366,True,Regular
+736,825,False,New User
+737,557,False,New User
+738,957,False,VIP
+739,106,True,New User
+740,419,False,VIP
+741,522,False,VIP
+742,522,True,Regular
+743,591,True,Regular
+744,677,True,VIP
+745,474,True,New User
+746,355,True,VIP
+747,339,True,VIP
+748,103,False,New User
+749,163,False,New User
+750,143,True,New User
+751,852,True,VIP
+752,945,False,VIP
+753,415,True,Regular
+754,575,False,New User
+755,106,False,New User
+756,783,False,Regular
+757,920,False,New User
+758,84,False,Regular
+759,183,True,VIP
+760,122,True,Regular
+761,22,True,VIP
+762,918,False,VIP
+763,482,True,New User
+764,516,False,Regular
+765,196,True,VIP
+766,954,True,Regular
+767,455,True,New User
+768,917,True,VIP
+769,632,False,New User
+770,346,True,New User
+771,733,False,VIP
+772,195,True,VIP
+773,206,False,Regular
+774,86,False,Regular
+775,738,False,Regular
+776,148,False,Regular
+777,701,True,Regular
+778,429,True,Regular
+779,740,False,VIP
+780,551,True,Regular
+781,493,True,VIP
+782,511,False,Regular
+783,657,False,VIP
+784,98,False,Regular
+785,726,True,VIP
+786,46,False,VIP
+787,77,True,VIP
+788,566,True,Regular
+789,875,True,Regular
+790,485,True,New User
+791,531,True,VIP
+792,358,False,Regular
+793,276,False,VIP
+794,341,True,Regular
+795,811,False,New User
+796,672,False,New User
+797,492,True,New User
+798,409,False,Regular
+799,605,False,VIP
+800,182,False,Regular
+801,251,False,New User
+802,627,True,VIP
+803,920,True,VIP
+804,448,True,New User
+805,582,True,VIP
+806,738,False,Regular
+807,167,False,Regular
+808,855,True,Regular
+809,599,False,VIP
+810,821,True,New User
+811,627,False,VIP
+812,758,True,New User
+813,62,False,Regular
+814,387,True,Regular
+815,304,False,Regular
+816,411,True,New User
+817,788,True,VIP
+818,424,False,New User
+819,453,True,VIP
+820,238,False,New User
+821,139,False,VIP
+822,82,True,Regular
+823,228,False,Regular
+824,627,False,Regular
+825,160,False,Regular
+826,315,True,VIP
+827,508,False,VIP
+828,862,False,New User
+829,42,False,New User
+830,65,True,VIP
+831,180,False,New User
+832,768,True,New User
+833,687,False,VIP
+834,865,True,Regular
+835,473,True,Regular
+836,336,True,New User
+837,561,False,VIP
+838,630,True,Regular
+839,392,True,New User
+840,944,True,Regular
+841,521,True,New User
+842,768,True,Regular
+843,770,False,VIP
+844,76,True,Regular
+845,858,True,Regular
+846,846,True,VIP
+847,385,False,New User
+848,89,True,VIP
+849,979,True,VIP
+850,756,False,VIP
+851,960,True,VIP
+852,935,False,VIP
+853,302,False,New User
+854,745,True,VIP
+855,57,False,VIP
+856,874,False,Regular
+857,168,False,Regular
+858,265,False,Regular
+859,907,False,New User
+860,501,False,VIP
+861,96,True,New User
+862,28,True,Regular
+863,811,False,VIP
+864,609,False,VIP
+865,130,False,VIP
+866,546,False,Regular
+867,356,True,Regular
+868,881,True,New User
+869,563,True,Regular
+870,591,True,New User
+871,288,False,Regular
+872,799,False,New User
+873,469,True,VIP
+874,538,True,New User
+875,305,True,Regular
+876,193,False,New User
+877,786,False,VIP
+878,349,True,Regular
+879,618,True,New User
+880,687,False,VIP
+881,458,True,Regular
+882,498,False,VIP
+883,532,True,VIP
+884,377,True,Regular
+885,816,False,Regular
+886,660,False,VIP
+887,200,False,Regular
+888,330,False,VIP
+889,112,False,New User
+890,360,True,VIP
+891,919,False,VIP
+892,352,True,Regular
+893,811,True,VIP
+894,719,False,VIP
+895,113,False,VIP
+896,61,True,New User
+897,240,False,Regular
+898,377,False,Regular
+899,32,False,VIP
+900,449,False,VIP
+901,614,False,VIP
+902,64,True,VIP
+903,336,True,Regular
+904,746,False,VIP
+905,34,True,Regular
+906,988,False,Regular
+907,658,False,New User
+908,938,True,Regular
+909,659,False,New User
+910,235,True,VIP
+911,325,False,New User
+912,685,True,Regular
+913,130,True,Regular
+914,193,False,Regular
+915,485,True,VIP
+916,955,False,Regular
+917,516,False,New User
+918,135,True,VIP
+919,915,False,Regular
+920,654,True,New User
+921,742,False,VIP
+922,228,True,Regular
+923,833,True,Regular
+924,260,True,New User
+925,285,False,Regular
+926,381,True,Regular
+927,737,True,New User
+928,458,True,New User
+929,442,False,New User
+930,298,False,VIP
+931,447,True,Regular
+932,414,False,New User
+933,467,False,New User
+934,916,True,Regular
+935,758,True,New User
+936,666,True,VIP
+937,673,True,VIP
+938,101,True,Regular
+939,338,True,Regular
+940,738,False,Regular
+941,868,False,VIP
+942,446,True,VIP
+943,249,False,VIP
+944,850,True,New User
+945,306,False,New User
+946,355,True,New User
+947,224,True,Regular
+948,736,True,VIP
+949,416,True,New User
+950,368,False,VIP
+951,137,False,VIP
+952,686,False,Regular
+953,124,True,VIP
+954,680,False,VIP
+955,166,False,Regular
+956,180,True,New User
+957,32,False,Regular
+958,455,True,New User
+959,390,True,VIP
+960,10,True,Regular
+961,584,True,Regular
+962,201,False,New User
+963,825,True,New User
+964,904,True,VIP
+965,355,True,New User
+966,310,True,New User
+967,323,False,Regular
+968,296,False,Regular
+969,890,True,Regular
+970,132,False,New User
+971,616,True,Regular
+972,614,False,New User
+973,198,False,Regular
+974,402,True,VIP
+975,187,True,Regular
+976,403,True,Regular
+977,385,True,New User
+978,860,True,New User
+979,932,True,Regular
+980,287,True,Regular
+981,686,True,New User
+982,830,False,Regular
+983,847,True,VIP
+984,735,False,VIP
+985,436,False,New User
+986,113,True,New User
+987,946,False,Regular
+988,542,True,New User
+989,194,False,New User
+990,877,True,Regular
+991,769,True,New User
+992,256,False,Regular
+993,750,False,VIP
+994,815,False,Regular
+995,437,False,VIP
+996,748,True,Regular
+997,670,False,New User
+998,976,True,New User
+999,361,True,New User
+1000,398,True,New User

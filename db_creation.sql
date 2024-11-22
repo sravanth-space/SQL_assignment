@@ -40,7 +40,7 @@ CREATE TABLE IF NOT EXISTS Shipping (
 
 -- Create Customer Behavior Table
 CREATE TABLE IF NOT EXISTS CustomerBehavior (
-    behavior_id INTEGER PRIMARY KEY,
+    behavior_id INTEGER PRIMARY KEY,  
     customer_id INTEGER,
     cart_abandonment BOOLEAN,
     customer_segment TEXT,
